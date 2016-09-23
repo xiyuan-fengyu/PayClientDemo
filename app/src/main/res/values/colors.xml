@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#57b5ff</color>
+    <color name="primaryDark">#0e95ff</color>
+    <color name="accent">#ff9731</color>
+    <color name="statusBarColor">@color/primaryDark</color>
+
+    <color name="text_black">#333333</color>
+    <color name="grey_f0">#fff0f0f0</color>
+    <color name="grey_dd">#ffdddddd</color>
+    <color name="grey_e0">#ffe0e0e0</color>
+    <color name="grey_cc">#ffcccccc</color>
+    <color name="grey_99">#ff999999</color>
+    <color name="grey_66">#ff666666</color>
+    <color name="white">#ffffffff</color>
+    <color name="blue">#0e95ff</color>
+    <color name="light_blue">#960e95ff</color>
+    <color name="yellow">#ffffbb4d</color>
+    <color name="orange">#ffff9731</color>
+    <color name="violet">#ffff2dde</color>
+    <color name="red">#ffff0000</color>
+    <color name="pink">#ffff6776</color>
+    <color name="green">#ff91d000</color>
+    <color name="grey">#c8646464</color>
+    <color name="cyan">#ff3fdaff</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

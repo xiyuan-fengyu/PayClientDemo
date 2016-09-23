@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="itemPagerImg" type="id" />
+
+    <item name="tag_int" type="id" />
+    <item name="tag_float" type="id" />
+    <item name="tag_double" type="id" />
+    <item name="tag_bool" type="id" />
+    <item name="tag_string" type="id" />
+    <item name="tag_json" type="id" />
+    <item name="tag_obj" type="id" />
+</resources>
